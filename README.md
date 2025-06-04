@@ -4,14 +4,16 @@ AppToolbar is a customizable Android ConstraintLayout-based toolbar component bu
 
 # ✨ Features
 <li>✅ XML - attribute configurable title, left (back) icon, and right (menu) icon
-
 <li>🖼️ Custom right icon via drawable
-
 <li>🔙 Back icon visibility toggle
-
 <li>🎯 Click listeners for both icons
-
 <li>🔤 Optional title text in all caps
+
+# 🔧 Built With
+Kotlin<br>
+Android ViewBinding<br>
+Custom Attributes (attrs.xml)<br>
+Scalable Drawable Handling<br>
 
 
  
