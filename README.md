@@ -9,6 +9,14 @@ AppToolbar is a customizable Android ConstraintLayout-based toolbar component bu
 <li>🎯 Click listeners for both icons
 <li>🔤 Optional title text in all caps
 
+# 🧱 Layout & Design
+This toolbar uses:
+
+<li>ConstraintLayout
+<li>ViewBinding (AppToolbarBinding)
+<li>Vector/Bitmap scaling for icon consistency
+<li>Padding and sizing handled via XML or styleable props
+
 # 🔧 Built With
 Kotlin<br>
 Android ViewBinding<br>
