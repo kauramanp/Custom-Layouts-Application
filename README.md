@@ -17,6 +17,20 @@ This toolbar uses:
 <li>Vector/Bitmap scaling for icon consistency
 <li>Padding and sizing handled via XML or styleable props
 
+# 📦 Component API
+<li><b>setTitle(title: String) -
+</b>
+Sets or updates the toolbar title programmatically.
+
+<li><b>onBackClicked(listener: (View) -> Unit) -</b>
+Sets the click listener for the left/back icon.
+
+<li><b>onRightIconClicked(listener: (View) -> Unit) -</b>
+Sets the click listener for the right/menu icon.
+
+<li><b>updateRightIcon(drawable: Drawable) -</b>
+Updates the right icon at runtime.
+
 # 🔧 Built With
 Kotlin<br>
 Android ViewBinding<br>
